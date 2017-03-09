@@ -1,0 +1,24 @@
+body {
+        background-color: #e6e6e6;
+    }
+label {
+    display: inline-block; width: 5em;
+  }
+  fieldset div {
+    margin-bottom: 2em;
+  }
+  fieldset .help {
+    display: inline-block;
+  }
+  .ui-tooltip {
+    width: 210px;
+  }
+
+  #hint {
+display:none;
+position:absolute;
+border:1px solid #ccc;
+padding:5px;
+background:yellow;
+border-radius:5px;
+}
